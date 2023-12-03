@@ -84,8 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Stockholm, Sweden"
-  employer         : "Royal Institute of Technology (KTH)"
-  employer         : "Royal Institute of Technolo2gy (KTH)"
+  employer         : "Royal Institute of Technology (KTH) & Karolinska Institutet (KI)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
