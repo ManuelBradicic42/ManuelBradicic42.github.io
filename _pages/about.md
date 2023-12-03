@@ -23,10 +23,10 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 <div style="display: flex; align-items: center;">
-  ![University Logo](/path/to/university-logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
+  ![University Logo](/images/usu_logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
 
   <div>
-    <p>Currently pursuing a degree in [Your Degree] at [Your University].</p>
+    <p>Currently pursuing a degree in Machine Learning at KTH.</p>
     <p>[Additional information about your degree or program.]</p>
   </div>
 </div>
