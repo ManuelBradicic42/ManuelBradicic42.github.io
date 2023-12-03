@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manuel's Homepage
+title                    : "Manuel's Homepage"
 title_separator          : "-"
 name                     : &name "Manuel Bradicic"
 description              : &description "personal description"
