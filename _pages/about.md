@@ -19,3 +19,14 @@ My pro
 
 
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+<div style="display: flex; align-items: center;">
+  ![University Logo](/path/to/university-logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
+
+  <div>
+    <p>Currently pursuing a degree in [Your Degree] at [Your University].</p>
+    <p>[Additional information about your degree or program.]</p>
+  </div>
+</div>

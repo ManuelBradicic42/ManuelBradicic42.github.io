@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Manuel Bradicic"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Stockholm, Sweden"
-  employer         : "Royal Institute of Technology (KTH) & Karolinska Institutet (KI)"
+  bio              : "Computer vision and Computational Biology"
+  location         : "Karolinska Institutet (KI)"
+  employer         : "Royal Institute of Technology (KTH)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
