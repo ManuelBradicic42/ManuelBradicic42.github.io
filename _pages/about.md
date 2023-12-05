@@ -1,17 +1,16 @@
 ---
 permalink: /
-title: "Hello"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently pursuing a Master's degree in Machine Learning at KTH University in Sweden. My academic background includes graduating with high honors in BSc (Hons) Computer Science from the University of Surrey in the United Kingdom, where I ranked within the top few percent. My academic journey reflects a strong dedication and passion for expanding my expertise in applying computer vision and signal processing techniques to the field of biology. Alongside my academic pursuits, I manage a part-time job to support my studies. I am actively involved in sports, excelling in rowing with a national title in the UK in 2021, practicing Jiu-Jitsu, running, and maintaining an interest in languages.
 
-Machine Learning MSc student at the KTH University in Sweden, previously graduated with high-honours and within top few percent in BSc (Hons) Computer Science from University of Surrey, United Kingdom. My academic journey reflects my strong commitment and passion to expanding my expertise in applying computer
-vision and signal processing techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a rower, national title UK 2021, and interested in languages.
+Simultaneously, I am engaged in an internship at Karolinska Institutet in Carlen's lab within the Department of Neuroscience. In this role, I work with live mice, specifically focusing on analyzing brain signals. 
 
-In parallel, I am also conducting an internship at Karolinska Institutet in Carlen's lab at the Department of Neuroscience, where I work with the brain signals of living mice.
 
 My pro
 ------
@@ -21,12 +20,22 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 
+
 <div style="display: flex; align-items: center;">
-  ![University Logo](images/usu_logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
+  <img src="images/ki_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
 
   <div>
-    <p>Currently pursuing a degree in Machine Learning at KTH.</p>
-    <p>[Additional information about your degree or program.]</p>
+    <p>Unievrsity of Surrey, The United Kingdom</p>
+    <p>BSc Computer Science</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="images/kth_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
+
+  <div>
+    <p>Unievrsity of Surrey, The United Kingdom</p>
+    <p>BSc Computer Science</p>
   </div>
 </div>
 
@@ -39,52 +48,11 @@ More info about configuring academicpages can be found in [the guide](https://ac
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="images/sser_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
 
-
-
-
-<style>
-  .timeline {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .timeline-item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-
-  .timeline-item img {
-    width: 100px;
-    height: 100px;
-    margin-right: 20px;
-  }
-</style>
-
-<div class="timeline">
-  <div class="timeline-item">
-   <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
-    <div>
-      <p>Currently pursuing a degree in Machine Learning at KTH.</p>
-      <p>[Additional information about your degree or program.]</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-  <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
-    <div>
-      <p>Details about the second degree or program.</p>
-      <p>[Additional information about the second degree or program.]</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-  <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
-    <div>
-      <p>Details about the third degree or program.</p>
-      <p>[Additional information about the third degree or program.]</p>
-    </div>
+  <div>
+    <p>Unievrsity of Surrey, The United Kingdom</p>
+    <p>BSc Computer Science</p>
   </div>
 </div>
