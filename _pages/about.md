@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 Machine Learning MSc student at the KTH University in Sweden, previously graduated with high-honours and within top few percent in BSc (Hons) Computer Science from University of Surrey, United Kingdom. My academic journey reflects my strong commitment and passion to expanding my expertise in applying computer
-vision and signal processing techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a high-performance rower, national title UK 2021, and interested in languages.
+vision and signal processing techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a rower, national title UK 2021, and interested in languages.
 
+In parallel, I am also conducting an internship at Karolinska Institutet in Carlen's lab at the Department of Neuroscience, where I work with the brain signals of living mice.
 
 My pro
 ------
@@ -64,7 +65,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 <div class="timeline">
   <div class="timeline-item">
-    <%= image_tag("images/usu_logo.png") %>
+   <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <p>Currently pursuing a degree in Machine Learning at KTH.</p>
       <p>[Additional information about your degree or program.]</p>
@@ -72,7 +73,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
   </div>
 
   <div class="timeline-item">
-    <%= image_tag("images/usu_logo.png") %>
+  <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <p>Details about the second degree or program.</p>
       <p>[Additional information about the second degree or program.]</p>
@@ -80,7 +81,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
   </div>
 
   <div class="timeline-item">
-    <%= image_tag("images/usu_logo.png") %>
+  <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
       <p>Details about the third degree or program.</p>
       <p>[Additional information about the third degree or program.]</p>
