@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Machine Learning MSc student at the KTH University in Sweden, previously graduated with high-honours and within top few percent in BSc (Hons) Computer Science from University of Surrey, United Kingdom. My academic journey reflects my strong commitment and passion to expanding my expertise in applying computer
-vision techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a high-performance rower, national title UK 2021, and interested in languages.
+vision and signal processing techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a high-performance rower, national title UK 2021, and interested in languages.
 
 
 My pro
@@ -33,7 +33,57 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
 
   <div>
-    <p>Currently pursuing a degree in Machine Learning at KTH.</p>
-    <p>[Additional information about your degree or program.]</p>
+    <p>Unievrsity of Surrey, The United Kingdom</p>
+    <p>BSc Computer Science</p>
+  </div>
+</div>
+
+
+
+
+
+<style>
+  .timeline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .timeline-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .timeline-item img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+</style>
+
+<div class="timeline">
+  <div class="timeline-item">
+    <%= image_tag("images/usu_logo.png") %>
+    <div>
+      <p>Currently pursuing a degree in Machine Learning at KTH.</p>
+      <p>[Additional information about your degree or program.]</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <%= image_tag("images/usu_logo.png") %>
+    <div>
+      <p>Details about the second degree or program.</p>
+      <p>[Additional information about the second degree or program.]</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <%= image_tag("images/usu_logo.png") %>
+    <div>
+      <p>Details about the third degree or program.</p>
+      <p>[Additional information about the third degree or program.]</p>
+    </div>
   </div>
 </div>
