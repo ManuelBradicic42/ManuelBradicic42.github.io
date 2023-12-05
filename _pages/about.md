@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,8 +12,6 @@ Machine Learning MSc student at the KTH University in Sweden, previously graduat
 vision techniques in the field of biology. In addition to my academic pursuits, I manage a part-time job to support my studies. I am also a high-performance rower, national title UK 2021, and interested in languages.
 
 
-
-
 My pro
 ------
 
@@ -23,7 +21,16 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 <div style="display: flex; align-items: center;">
-  ![University Logo](/images/usu_logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
+  ![University Logo](images/usu_logo.png){: style="width: 100px; height: 100px; margin-right: 20px;"}
+
+  <div>
+    <p>Currently pursuing a degree in Machine Learning at KTH.</p>
+    <p>[Additional information about your degree or program.]</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="images/usu_logo.png" alt="University Logo" style="width: 100px; height: 100px; margin-right: 20px;">
 
   <div>
     <p>Currently pursuing a degree in Machine Learning at KTH.</p>
